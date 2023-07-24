@@ -1,0 +1,18 @@
+@import "static";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Oswald:wght@600&family=Poppins:wght@200&family=Roboto:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $text2;
+    scroll-behavior: smooth;
+
+    a{
+        text-decoration: none;
+    }
+    body{
+        //background-color: $color1;
+        overflow-x: hidden;
+    }
+}

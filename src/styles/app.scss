@@ -1,4 +1,12 @@
 @import "static";
+@import "animations";
+@import "header.scss";
+@import "home.scss";
+@import 'work.scss';
+@import 'services';
+@import 'contact';
+@import 'footer';
+@import 'mediaquery';
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Oswald:wght@600&family=Poppins:wght@200&family=Roboto:wght@100&display=swap');
 *{
@@ -12,7 +20,18 @@
         text-decoration: none;
     }
     body{
-        //background-color: $color1;
+        background-color: $color1;
         overflow-x: hidden;
     }
 }
+.disableBtn{
+    background-color: $color3_light !important;
+    cursor: not-allowed !important;
+}
+#customMessage {
+    font: 900 2rem $text2;
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }

@@ -56,7 +56,7 @@ const Home = () => {
                 Hi , I am <br/> Himanshu Ray
             </motion.h1>
             <Typewriter options={{
-                strings:["A developer" ," A Designer" ," A Problem Solver" ],
+                strings:["A Web developer" ," A Blockchain Enthusiast" ," A Problem Solver" ],
                 autoStart: true,
                 loop: true,
                 cursor:"",

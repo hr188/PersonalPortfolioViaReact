@@ -2,9 +2,9 @@
     "projects": [
       {
         "date": "07/10/2022",
-        "title": "TECHY STAR",
+        "title": "Code With Hr",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://reactone-nine.vercel.app",
+        "url": "https://tutorial-three-mu.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
       },
   
@@ -32,10 +32,18 @@
       },
       {
         "date": "20/10/2022",
-        "title": "PORTFOLIO",
+        "title": "PERSONAL PORTFOLIO",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "24/06/2023",
+        "title": "Movie Land",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/Untitled.png",
+        "imgSrc": "https://github.com/hr188/react/blob/master/Untitled.png?raw=true"
       }
+
     ]
   }
